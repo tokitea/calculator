@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680595448 source:c:\users\user\desktop\codeblocks\swe2assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
